@@ -1,0 +1,55 @@
+header .head {
+  text-align: center;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 36px;
+}
+header .head_dis {
+  text-align: center;
+
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+  margin-top: -20px;
+}
+ul li {
+  margin-top: 5px;
+
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.one {
+  list-style: none;
+  margin-top: 150px;
+  margin-left: 244px;
+}
+ul h3 {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+ul p {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  /* color: D2D5DA; */
+}
+
+.two {
+  /* margin-top: 150px; */
+  margin-left: 234px;
+  /* list-style: ; */
+}
+
+a {
+  text-decoration: none;
+  color: #4e80ee;
+}
